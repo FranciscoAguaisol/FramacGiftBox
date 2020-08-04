@@ -1,0 +1,18 @@
+.conocenos{
+	border-style: solid;
+	padding: 25px;
+}
+
+.conocenos h1{
+  font-size: 30px;
+  font-family: 'Abel', sans-serif;
+  color: #474f58;
+  text-align: center;
+}
+
+.conocenos p{
+	font-family: 'Abel', sans-serif;
+  	color: #474f58;
+  	font-size: 30px;
+  	text-align: center;
+}

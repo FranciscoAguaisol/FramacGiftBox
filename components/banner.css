@@ -1,0 +1,30 @@
+#banner {
+    background-image: url(https://images.pexels.com/photos/3927233/pexels-photo-3927233.jpeg?cs=srgb&dl=manos-regalo-caja-arco-3927233.jpg&fm=jpg);
+    background-size: cover;
+    padding: 85px;
+    text-align: center;
+    text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+    font-family: "baloo da 2", cusive;
+    font-size: 60px;
+    color: #cdcdcd;
+    text-align: center;
+}
+
+#banner p {
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#banner img{
+height: 100%;
+object-fit:cover;
+margin: 0;
+width: 80px; 
+float: right;
+}

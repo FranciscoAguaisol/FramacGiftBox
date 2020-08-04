@@ -1,0 +1,13 @@
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+@import url("components/buttons.css");
+@import url("components/productos.css");
+@import url("components/conocenos.css");
+
+body {
+	margin: 0px;
+    background-color: #dee2e6;
+}
+
+

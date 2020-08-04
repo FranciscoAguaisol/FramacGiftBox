@@ -1,0 +1,45 @@
+#productos {
+	margin-top: 10px;
+	background-color: white;
+	border-radius: 8px;
+	text-align: center;	
+	padding: 15px;
+}
+#productos h1{
+	text-align: center;	
+ 	font-family: 'Abel', sans-serif;
+ 	color: #474f58;
+ 	font-weight: bold;
+}
+
+
+#productos p {
+  font-family: 'Abel', sans-serif;
+  color: #474f58;
+  font-size: 30px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+#productos infos {
+  font-family: 'Abel', sans-serif;
+  color: #474f58;
+  font-size: 25px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+#productos price{
+  font-family: 'Abel', sans-serif;
+  font-size: 30px;
+  color: #474f58;
+  font-weight: bold;
+  margin: 0;
+}
+
+
+
